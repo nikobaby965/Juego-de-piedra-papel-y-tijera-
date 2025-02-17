@@ -10,7 +10,7 @@ En este juego, tienes dos opciones para  jugar ya sea  con un amigo o con la com
 
 ¿En donde se creo este lenguaje de programación?
 
-Se creo en Visual Studio Code, en donde el lenguaje de programación fue pyton con la versión 3.11.9
+Se creo en Visual Studio Code, el lenguaje de programación fue pyton con la versión 3.11.9
 
 NOTA:
 El repositorio es el mismo del trabajo AA2, solo se debería realizar el pull, ademas cabe mencionar que se cambio el código completo del juego de piedra papel o tijera, para un mejor resultado. 
