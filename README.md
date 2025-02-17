@@ -12,4 +12,8 @@ En este juego, tienes dos opciones para  jugar ya sea  con un amigo o con la com
 
 Se creo en Visual Studio Code, en donde el lenguaje de programación fue pyton con la versión 3.11.9
 
+NOTA:
 El repositorio es el mismo del trabajo AA2, solo se debería realizar el pull, ademas cabe mencionar que se cambio el código completo del juego de piedra papel o tijera, para un mejor resultado. 
+
+VIDEO EXPLICATIVO: 
+https://vimeo.com/1057368345/ee6b0bf3a2?share=copy
