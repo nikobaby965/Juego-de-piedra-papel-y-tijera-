@@ -33,29 +33,29 @@ Empates.
 
 Guarda las estadisticas de la ultima partida jugada.
 
-funcionalidades: 
+**funcionalidades:** 
 
-mostrar_mensaje_bienvenida():
+**mostrar_mensaje_bienvenida():**
 Muestra un mensaje de bienvenida con las reglas del juego.
 
-obtener_nombre_jugador():
+**obtener_nombre_jugador():**
 Solicita y valida el nombre del jugador.
 
 
-obtener_eleccion_jugador():
+**obtener_eleccion_jugador():**
 Solicita y valida la elección del jugador.
 
-determinar_ganador():
+**determinar_ganador():**
 Compara las elecciones del jugador y la computadora (o los dos jugadores) y determina el ganador.
 
 
-jugar_ronda():
+**jugar_ronda():**
 Ejecuta una ronda del juego, registrando el resultado y actualizando las estadísticas.
 
 
-jugar_de_nuevo():
+**jugar_de_nuevo():**
 Pregunta si el jugador quiere jugar otra partida.
 
 
-main():
+**main():**
 La función principal que coordina todas las demás funciones y ejecuta el juego.
