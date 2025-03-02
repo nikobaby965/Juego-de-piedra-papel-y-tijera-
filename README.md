@@ -68,3 +68,6 @@ La función principal que coordina todas las demás funciones y ejecuta el juego
 **Objetivo Principal**
 
 El juego ofrece una experiencia totalmente diferente al juego clasico de piedra, papel o tijera con funcionalidades adicionales que mejoran la experiencia del usuario y proporcionan información útil sobre el desarrollo del juego. 
+
+**Fecha**
+01/03/2'25
