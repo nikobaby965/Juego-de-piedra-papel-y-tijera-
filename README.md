@@ -13,7 +13,7 @@ En este juego, tienes dos opciones para  jugar ya sea  con un amigo o con la com
 Se creo en Visual Studio Code, el lenguaje de programación fue pyton con la versión 3.11.9
 
 
-**Principales Funcionalidades**
+**Principales Funcionalidades:**
 
 
 **Modo de Juego Contra la Computadora:**
@@ -63,3 +63,8 @@ Pregunta si el jugador quiere jugar otra partida.
 
 **main():**
 La función principal que coordina todas las demás funciones y ejecuta el juego.
+
+
+**Objetivo Principal**
+
+El juego ofrece una experiencia totalmente diferente al juego clasico de piedra, papel o tijera con funcionalidades adicionales que mejoran la experiencia del usuario y proporcionan información útil sobre el desarrollo del juego. 
