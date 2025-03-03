@@ -71,3 +71,6 @@ El juego ofrece una experiencia totalmente diferente al juego clasico de piedra,
 
 **Fecha**
 01/03/2025
+
+**Video explicativo**
+https://vimeo.com/1061909744/22b26fa376?share=copy
