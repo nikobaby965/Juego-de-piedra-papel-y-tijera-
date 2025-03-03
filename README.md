@@ -10,7 +10,7 @@ En este juego, tienes dos opciones para  jugar ya sea  con un amigo o con la com
 
 **¿En donde se creo este lenguaje de programación?**
 
-Se creo en Visual Studio Code, el lenguaje de programación fue pyton con la versión 3.11.9
+Se creo en Visual Studio Code, el lenguaje de programación fue pyton con la versión 3.11.9, cabe mencionar que se realizo el último cambio en el juego para una mejor experiencia
 
 
 **Principales Funcionalidades:**
